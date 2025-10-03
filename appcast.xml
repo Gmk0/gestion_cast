@@ -44,16 +44,16 @@
     </item> -->
 
     <!-- Version 1.1.3 -->
-    <!-- <item>
+    <item>
       <title>Version 1.1.3</title>
       <pubDate>Thu, 06 Jul 2025 12:00:00 +0000</pubDate>
       <sparkle:version>1.1.3</sparkle:version>
       <sparkle:shortVersionString>1.1.3</sparkle:shortVersionString>
       <enclosure
-        url="https://hotelgenie.pro/downloads/HotelGenie_v1.1.3.zip"
+        url="https://gestion-inertia.pro-create-drc.com"
         length="12345678"
         type="application/zip"/>
-    </item> -->
+    </item>
 
   </channel>
 </rss>
